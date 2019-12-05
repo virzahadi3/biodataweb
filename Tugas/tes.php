@@ -6,7 +6,7 @@ session_start();
 <html>
     <head>
         
-        <title> Virza Hadi S </title>
+        <title> Virza Hadi Saputro </title>
         <link href="style.css" rel="stylesheet">
     </head>
 
