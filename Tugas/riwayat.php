@@ -16,7 +16,7 @@
         <td><b> SMKN 29 JAKARTA </b></td>   
         </tr>
         <tr>
-                <td><b> Sarjana </b></td>
+                <td><b> Sarjana s1</b></td>
             <td><b> STI&K JAKARTA</b></td>   
             </tr>
             <tr>
