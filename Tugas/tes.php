@@ -35,7 +35,7 @@ session_start();
             <tr>
                     <td><b> Hoby</b></td>
                 <td>:</td> 
-                <td><b> Jalan - Jalan</b></td>   
+                <td><b> Jalan - Jalan, berenang</b></td>   
                 </tr>
                 <tr>    
                     <td><b> Cita Cita</b></td>
