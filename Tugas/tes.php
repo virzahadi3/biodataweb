@@ -18,7 +18,7 @@ session_start();
 
         <tr>
         <table style="width: 500px;" >
-        <td><b> Nama Lengkap</b></td>
+        <td><b> Nama Lengkap Saya</b></td>
     <td>:</td> 
     <td><b> Virza Hadi Saputro</b></td>   
     </tr>
@@ -35,7 +35,7 @@ session_start();
             <tr>
                     <td><b> Hoby</b></td>
                 <td>:</td> 
-                <td><b> Jalan - Jalan, berenang</b></td>   
+                <td><b> Jalan - Jalan, WEY</b></td>   
                 </tr>
                 <tr>    
                     <td><b> Cita Cita</b></td>

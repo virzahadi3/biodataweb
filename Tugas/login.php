@@ -2,8 +2,8 @@
 session_start();
 include 'koneksi.php';
 
-$username=$_POST['username'];
-$password=$_POST['password dong'];
+$username=$_POST['user'];
+$password=$_POST['password'];
 
 $query_cek = mysqli_query($conn, "select * from biodata where username='$username' and password='$password'");
 
